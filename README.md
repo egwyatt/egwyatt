@@ -42,12 +42,12 @@
    1. Boom Operator 
 
 
-# Table
-Color | RGB | Comment
+# Some of my Film History
+Year | Project | Position
 ------|-----|--------
-Lavender | 0xff0000 | good
-Plum | 0x00ff00 | better
-Violet | 0x0000ff | best
+2020 | Student Film | Screenwriter
+2022 | Feature Film | Production Assistant
+2022 | Short Film | Boom Operator
 
  
 

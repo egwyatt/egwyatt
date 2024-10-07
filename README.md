@@ -51,6 +51,14 @@ Year | Project | Position
 
  
 
+
+<img alt="Esther Wyatt" width="90px" src="https://github.com/user-attachments/assets/036fb738-7d6e-473f-a133-f0b81ff90f96" />
+
+
+
+
+
+
 #### Hi there, I'm Esther Wyatt.
 
 - View my poetry at: https://gracewyatt.wordpress.com/
